@@ -1,3 +1,9 @@
+python 3.10
+
+![image](https://user-images.githubusercontent.com/45864789/225509788-e8f82c0f-15a0-42a3-8f79-8973ce070ba6.png)
+
+
+
 locate the file
 
 pip 
