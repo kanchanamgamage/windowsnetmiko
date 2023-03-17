@@ -48,3 +48,15 @@ pip install netmiko-4.1.2-py3-none-any.whl
 test
 
 ![image](https://user-images.githubusercontent.com/45864789/225508204-90bd4025-8394-4c2f-b48e-03be46be7fb2.png)
+
+
+
+=================================
+
+my account
+pip freeze > installed_packages.txt
+
+pip download -r installed_packages.txt -d packages
+
+remote account
+pip install -r installed_packages.txt --no-index --find-links=file:///path/to/packages/directory
